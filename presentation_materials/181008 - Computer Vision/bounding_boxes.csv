@@ -1,0 +1,11 @@
+Field_Name, x, y, w, h
+"Agency", 71, 280, 1207, 97
+"Lim_Gen_Agg", 960, 650, 1065, 50
+"Lim_Products", 960, 800, 1095, 50
+"Lim_Personal_Inj", 960, 850, 1095, 50
+"Lim_Occurrence", 960, 900, 1095, 50
+"Lim_Rented_Prem", 960, 950, 1095, 50
+"Lim_Med", 960, 1000, 1095, 50
+"Lim_Emp_Ben", 960, 1050, 1095, 50
+
+
